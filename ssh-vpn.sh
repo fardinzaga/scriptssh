@@ -239,7 +239,7 @@ wget -O about "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/men
 wget -O menu "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/menu.sh"
 wget -O usernew "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/usernew.sh"
 wget -O trial "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/trial.sh"
-wget -O hapus "https://raw.githubusercontent.com/Nataslamet/Natascript/main/hapus.sh"
+wget -O hapus "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/hapus.sh"
 wget -O member "https://raw.githubusercontent.com/Nataslamet/Natascript/main/member.sh"
 wget -O delete "https://raw.githubusercontent.com/Nataslamet/Natascript/main/delete.sh"
 wget -O cek "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek.sh"
