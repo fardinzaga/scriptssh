@@ -494,7 +494,7 @@ cd /usr/bin
 wget -O add-ws "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/V2ray/add-ws.sh"
 wget -O add-vless "https://raw.githubusercontent.com/Nataslamet/Natascript/main/add-vless.sh"
 wget -O add-tr "https://raw.githubusercontent.com/Nataslamet/Natascript/main/add-tr.sh"
-wget -O del-ws "https://raw.githubusercontent.com/Nataslamet/Natascript/main/del-ws.sh"
+wget -O del-ws "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/V2ray/del-ws.sh"
 wget -O del-vless "https://raw.githubusercontent.com/Nataslamet/Natascript/main/del-vless.sh"
 wget -O del-tr "https://raw.githubusercontent.com/Nataslamet/Natascript/main/del-tr.sh"
 wget -O cek-ws "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek-ws.sh"
