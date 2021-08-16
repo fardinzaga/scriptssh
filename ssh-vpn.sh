@@ -249,7 +249,7 @@ wget -O info "https://raw.githubusercontent.com/Nataslamet/Natascript/main/info.
 wget -O ram "https://raw.githubusercontent.com/Nataslamet/Natascript/main/ram.sh"
 wget -O renew "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew.sh"
 wget -O autokill "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/autokill.sh"
-wget -O ceklim "https://raw.githubusercontent.com/Nataslamet/Natascript/main/ceklim.sh"
+wget -O ceklim "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ceklim.sh"
 wget -O tendang "https://raw.githubusercontent.com/Nataslamet/Natascript/main/tendang.sh"
 wget -O clear-log "https://raw.githubusercontent.com/Nataslamet/Natascript/main/clear-log.sh"
 wget -O change-port "https://raw.githubusercontent.com/Nataslamet/Natascript/main/change.sh"
