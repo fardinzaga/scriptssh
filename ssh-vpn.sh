@@ -252,7 +252,7 @@ wget -O autokill "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/
 wget -O ceklim "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ceklim.sh"
 wget -O tendang "https://raw.githubusercontent.com/Nataslamet/Natascript/main/tendang.sh"
 wget -O clear-log "https://raw.githubusercontent.com/Nataslamet/Natascript/main/clear-log.sh"
-wget -O change-port "https://raw.githubusercontent.com/Nataslamet/Natascript/main/change.sh"
+wget -O change-port "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/change.sh"
 wget -O port-ovpn "https://raw.githubusercontent.com/Nataslamet/Natascript/main/port-ovpn.sh"
 wget -O port-ssl "https://raw.githubusercontent.com/Nataslamet/Natascript/main/port-ssl.sh"
 wget -O port-wg "https://raw.githubusercontent.com/Nataslamet/Natascript/main/port-wg.sh"
