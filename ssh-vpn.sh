@@ -236,7 +236,7 @@ netfilter-persistent reload
 cd /usr/bin
 wget -O add-host "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/add-host.sh"
 wget -O about "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/about.sh"
-wget -O menu "https://raw.githubusercontent.com/Nataslamet/Natascript/main/menu.sh"
+wget -O menu "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/menu.sh"
 wget -O usernew "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/usernew.sh"
 wget -O trial "https://raw.githubusercontent.com/Nataslamet/Natascript/main/trial.sh"
 wget -O hapus "https://raw.githubusercontent.com/Nataslamet/Natascript/main/hapus.sh"
