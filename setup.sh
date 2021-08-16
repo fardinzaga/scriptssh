@@ -21,7 +21,7 @@ wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/cf.sh && chmod
 #install ssh ovpn
 wget https://raw.githubusercontent.com/fardinzaga/scriptssh/master/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
 #install v2ray
-wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/ins-vt.sh && chmod +x ins-vt.sh && screen -S v2ray ./ins-vt.sh
+wget https://raw.githubusercontent.com/fardinzaga/scriptssh/master/ins-vt.sh && chmod +x ins-vt.sh && screen -S v2ray ./ins-vt.sh
 
  
 rm -f /root/ssh-vpn.sh
