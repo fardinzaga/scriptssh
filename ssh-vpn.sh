@@ -15,10 +15,10 @@ ver=$VERSION_ID
 country=ID
 state=Indonesia
 locality=Indonesia
-organization=www.vpnstores.net
-organizationalunit=www.vpnstores.net
-commonname=www.vpnstores.net
-email=admin@vpnstores.net
+organization=www.fauzanvpn.com
+organizationalunit=www.fauzanvpn.com
+commonname=www.fauzanvpn.com
+email=admin@fauzanvpn.com
 
 # simple password minimal
 wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/Nataslamet/Natascript/main/password"
