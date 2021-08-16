@@ -247,7 +247,7 @@ wget -O restart "https://raw.githubusercontent.com/Nataslamet/Natascript/main/re
 wget -O speedtest "https://raw.githubusercontent.com/Nataslamet/Natascript/main/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/info.sh"
 wget -O ram "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ram.sh"
-wget -O renew "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew.sh"
+wget -O renew "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/renew.sh"
 wget -O autokill "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/autokill.sh"
 wget -O ceklim "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ceklim.sh"
 wget -O tendang "https://raw.githubusercontent.com/Nataslamet/Natascript/main/tendang.sh"
