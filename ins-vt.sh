@@ -500,7 +500,7 @@ wget -O del-tr "https://raw.githubusercontent.com/Nataslamet/Natascript/main/del
 wget -O cek-ws "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek-ws.sh"
 wget -O cek-vless "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek-vless.sh"
 wget -O cek-tr "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek-tr.sh"
-wget -O renew-ws "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew-ws.sh"
+wget -O renew-ws "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/V2ray/renew-ws.sh"
 wget -O renew-vless "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew-vless.sh"
 wget -O renew-tr "https://raw.githubusercontent.com/Nataslamet/Natascript/main/renew-tr.sh"
 wget -O certv2ray "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cert.sh"
