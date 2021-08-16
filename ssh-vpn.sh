@@ -250,7 +250,7 @@ wget -O ram "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/
 wget -O renew "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/renew.sh"
 wget -O autokill "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/autokill.sh"
 wget -O ceklim "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ceklim.sh"
-wget -O tendang "https://raw.githubusercontent.com/Nataslamet/Natascript/main/tendang.sh"
+wget -O tendang "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/tendang.sh"
 wget -O clear-log "https://raw.githubusercontent.com/Nataslamet/Natascript/main/clear-log.sh"
 wget -O change-port "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/change.sh"
 wget -O port-ovpn "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/port-ovpn.sh"
