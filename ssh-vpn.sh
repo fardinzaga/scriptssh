@@ -243,7 +243,7 @@ wget -O hapus "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/men
 wget -O member "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/member.sh"
 wget -O delete "https://raw.githubusercontent.com/Nataslamet/Natascript/main/delete.sh"
 wget -O cek "https://raw.githubusercontent.com/Nataslamet/Natascript/main/cek.sh"
-wget -O restart "https://raw.githubusercontent.com/Nataslamet/Natascript/main/restart.sh"
+wget -O restart "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/restart.sh"
 wget -O speedtest "https://raw.githubusercontent.com/Nataslamet/Natascript/main/speedtest_cli.py"
 wget -O info "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/info.sh"
 wget -O ram "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/menu/ram.sh"
