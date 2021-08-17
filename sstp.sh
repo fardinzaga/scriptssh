@@ -25,10 +25,10 @@ touch /var/lib/premium-script/data-user-sstp
 country=ID
 state=Indonesia
 locality=Indonesia
-organization=Fauzanvpn.com
-organizationalunit=Fauzanvpn.com
-commonname=Fauzanvpn.com
-email=Fauzanvpn@gmail.com
+organization=fauzanvpn.com
+organizationalunit=fauzanvpn.com
+commonname=fauzanvpn.com
+email=fauzanvpn@gmail.com
 
 #install sstp
 apt-get install -y build-essential cmake gcc linux-headers-`uname -r` git libpcre3-dev libssl-dev liblua5.1-0-dev ppp
