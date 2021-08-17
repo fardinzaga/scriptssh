@@ -73,7 +73,7 @@ clear
 echo " "
 echo "Installation has been completed!!"
 echo " "
-echo "=================================-Script Premium-===========================" | tee -a log-install.txt
+echo "=================================-Autoscript Premium-===========================" | tee -a log-install.txt
 echo "" | tee -a log-install.txt
 echo "--------------------------------------------------------------------------------" | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
@@ -82,7 +82,6 @@ echo "   - OpenSSH                 : 22"  | tee -a log-install.txt
 echo "   - OpenVPN                 : TCP 1194, UDP 2200, SSL 442"  | tee -a log-install.txt
 echo "   - Stunnel4                : 443, 777"  | tee -a log-install.txt
 echo "   - Dropbear                : 109, 143"  | tee -a log-install.txt
-echo "   - WebSocket               : 2082"  | tee -a log-install.txt
 echo "   - Squid Proxy             : 3128, 8080 (limit to IP Server)"  | tee -a log-install.txt
 echo "   - Badvpn                  : 7100, 7200, 7300"  | tee -a log-install.txt
 echo "   - Nginx                   : 81"  | tee -a log-install.txt
@@ -114,13 +113,12 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   - Dev/Main                : Gapunya"  | tee -a log-install.txt
-echo "   - Telegram                : Gapunya"  | tee -a log-install.txt
-echo "   - Instagram               : Gapunya"  | tee -a log-install.txt
-echo "   - Whatsapp                : Gapunya"  | tee -a log-install.txt
-echo "   - Facebook                : Gapunya" | tee -a log-install.txt
-echo ""  | tee -a log-install.txt
-echo "------------------Script Modified Fauzan Vpn-----------------" | tee -a log-install.txt
+echo "   - Dev/Main                : GAPUNYA"  | tee -a log-install.txt
+echo "   - Telegram                : GAPUNYA"  | tee -a log-install.txt
+echo "   - Instagram               : GAPUNYA"  | tee -a log-install.txt
+echo "   - Whatsapp                : GAPUNYA"  | tee -a log-install.txt
+echo "   - Facebook                : GAPUNYA" | tee -a log-install.txt
+echo "------------------Script Created By Fauzan Vpn-----------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
