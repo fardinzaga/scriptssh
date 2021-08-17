@@ -43,30 +43,13 @@ wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/ipsec.sh && ch
 wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 
 rm -f /root/ssh-vpn.sh
-#rm -f /root/sstp.sh
-#rm -f /root/wg.sh
-#rm -f /root/ss.sh
-#rm -f /root/ssr.sh
+rm -f /root/sstp.sh
+rm -f /root/wg.sh
+rm -f /root/ss.sh
+rm -f /root/ssr.sh
 rm -f /root/ins-vt.sh
-#rm -f /root/ipsec.sh
-#rm -f /root/set-br.sh
-cat <<EOF> /etc/systemd/system/autosett.service
-[Unit]
-Description=autosetting
-Documentation=https://adiscript.vercel.app/vpn
-
-[Service]
-Type=oneshot
-ExecStart=/bin/bash /etc/set.sh
-RemainAfterExit=yes
-
-[Install]
-WantedBy=multi-user.target
-EOF
-systemctl daemon-reload
-systemctl enable autosett
-wget -O /etc/set.sh "https://adiscript.vercel.app/vpn/set.sh"
-chmod +x /etc/set.sh
+rm -f /root/ipsec.sh
+rm -f /root/set-br.sh
 history -c
 echo "1.2" > /home/ver
 clear
@@ -113,12 +96,12 @@ echo "   - Full Orders For Various Services" | tee -a log-install.txt
 echo "   - White Label" | tee -a log-install.txt
 echo "   - Installation Log --> /root/log-install.txt"  | tee -a log-install.txt
 echo ""  | tee -a log-install.txt
-echo "   - Dev/Main                : GAPUNYA"  | tee -a log-install.txt
+echo "   - Dev/Main                : FAUZAN-VPN"  | tee -a log-install.txt
 echo "   - Telegram                : GAPUNYA"  | tee -a log-install.txt
 echo "   - Instagram               : GAPUNYA"  | tee -a log-install.txt
 echo "   - Whatsapp                : GAPUNYA"  | tee -a log-install.txt
-echo "   - Facebook                : GAPUNYA" | tee -a log-install.txt
-echo "------------------Script Created By Fauzan Vpn-----------------" | tee -a log-install.txt
+echo "   - Facebook                : https://www.facebook.com/Marlosirega" | tee -a log-install.txt
+echo "------------------Script Created By FAUZAN-VPN-----------------" | tee -a log-install.txt
 echo ""
 echo " Reboot 15 Sec"
 sleep 15
