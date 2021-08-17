@@ -30,7 +30,7 @@ wget -O autobackup "https://raw.githubusercontent.com/fardinzaga/scriptssh/maste
 wget -O backup "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/br/backup.sh"
 wget -O bckp "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/br/bckp.sh"
 wget -O restore "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/br/restore.sh"
-wget -O strt "https://raw.githubusercontent.com/Nataslamet/Natascript/main/strt.sh"
+wget -O strt "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/br/strt.sh"
 wget -O limit-speed "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/br/limit-speed.sh"
 chmod +x autobackup
 chmod +x backup
