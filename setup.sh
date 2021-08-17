@@ -30,7 +30,7 @@ echo "$host" >> /etc/v2ray/domain
 
 #install ssh ovpn
 wget https://raw.githubusercontent.com/fardinzaga/scriptssh/master/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
-wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/sstp.sh && chmod +x sstp.sh && screen -S sstp ./sstp.sh
+wget https://raw.githubusercontent.com/fardinzaga/scriptssh/master/sstp.sh && chmod +x sstp.sh && screen -S sstp ./sstp.sh
 #install ssr
 wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/ssr.sh && chmod +x ssr.sh && screen -S ssr ./ssr.sh
 wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/sodosok.sh && chmod +x sodosok.sh && screen -S ss ./sodosok.sh
