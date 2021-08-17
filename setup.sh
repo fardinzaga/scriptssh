@@ -29,7 +29,7 @@ echo "IP=$host" >> /var/lib/premium-script/ipvps.conf
 echo "$host" >> /etc/v2ray/domain
 
 #install ssh ovpn
-wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/fardinzaga/scriptssh/master/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
 wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/sstp.sh && chmod +x sstp.sh && screen -S sstp ./sstp.sh
 #install ssr
 wget https://raw.githubusercontent.com/Nataslamet/Natascript/main/ssr.sh && chmod +x ssr.sh && screen -S ssr ./ssr.sh
