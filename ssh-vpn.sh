@@ -213,7 +213,7 @@ echo 'Please send in your comments and/or suggestions to zaf@vsnl.com'
 
 # Custom Banner SSH
 echo "================  Banner ======================"
-wget -O /etc/issue.net "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/banner/banner-custom.conf"
+wget -O /etc/issue.net "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/Banner/banner-custom.conf"
 chmod +x /etc/issue.net
 
 echo "Banner /etc/issue.net" >> /etc/ssh/sshd_config
