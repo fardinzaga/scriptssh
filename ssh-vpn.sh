@@ -216,8 +216,8 @@ echo "================  Banner ======================"
 wget -O /etc/issue.net "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/Banner/banner-custom.conf"
 chmod +x /etc/issue.net
 
-echo "Banner /etc/issue.net" >> /etc/ssh/sshd_config
-echo "DROPBEAR_BANNER="/etc/issue.net"" >> /etc/default/dropbear
+echo "Banner /etc/issue.net" >>/etc/ssh/sshd_config
+sed -i 's@DROPBEAR_BANNER=""@DROPBEAR_BANNER="/etc/issue.net"@g' /etc/default/dropbear
 
 # blockir torrent
 iptables -A FORWARD -m string --string "get_peers" --algo bm -j DROP
