@@ -21,7 +21,7 @@ commonname=fauzanvpn.com
 email=admin@fauzanvpn.com
 
 # simple password minimal
-wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/Nataslamet/Natascript/main/password"
+wget -O /etc/pam.d/common-password "https://raw.githubusercontent.com/fardinzaga/scriptssh/master/pass/password"
 chmod +x /etc/pam.d/common-password
 
 # go to root
